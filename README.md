@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fias06
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently in first year CS at mcgill
+- 🌱 I’m currently in first year joint majoring in Math and comp sci at mcgill
 - 💞️ I’m looking to collaborate on projects
 - 😄 Pronouns: he/him/his
 
